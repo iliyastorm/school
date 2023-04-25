@@ -9,3 +9,4 @@ $sql = "SET NAMES 'utf8'";
 $result = $db->prepare($sql);
 $result->execute();
 ?>
+
